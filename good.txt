@@ -4,4 +4,5 @@ ccc
 <?php
 	echo "cool";
 	echo "one";
+	echo "two";
 ?>
