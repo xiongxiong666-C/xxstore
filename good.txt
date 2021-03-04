@@ -1,3 +1,6 @@
 aaaa
 bb
 ccc
+<?php
+	echo "cool";
+?>
