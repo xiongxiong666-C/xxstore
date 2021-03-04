@@ -3,4 +3,5 @@ bb
 ccc
 <?php
 	echo "cool";
+	echo "one";
 ?>
