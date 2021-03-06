@@ -5,4 +5,5 @@ ccc
 	echo "cool";
 	echo "one";
 	echo "two";
+	echo "git push xxstore_ssh hotfix";
 ?>
